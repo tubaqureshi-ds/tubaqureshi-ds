@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuba Qureshi</h1>
-<h3 align="center">Aspiring Data Scientist | MSc Data Science & Analytics (IGNOU)</h3>
+<h3 align="center">Aspiring Data Scientist </h3>
 
 ---
 
@@ -13,8 +13,7 @@
 - SQL & Databases  
 
 📚 Currently:
-
-- 🎓 Pursuing MSc in Data Science & Analytics (IGNOU)  
+ 
 - 📜 Completing IBM Data Science Professional Certificate  
 - 🧠 Practicing Python, SQL & ML consistently  
 
